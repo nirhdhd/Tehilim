@@ -1,0 +1,8 @@
+<Image  source={require('../assets/bug.gif')}  style={{width: 100, height: 100 }} />
+
+
+https://reactnavigation.org/docs/native-stack-navigator   
+
+
+for tunnel running:
+expo start --tunnel 
